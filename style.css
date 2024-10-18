@@ -1,0 +1,17 @@
+.heroes-bacgkround {
+  background-image: url(./images/heroes.png);
+}
+
+.service-background {
+  background-image: url(./images/service.png);
+}
+
+.aboutme-background {
+  background-image: url(./images/myphoto.png);
+}
+
+.full-background {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
